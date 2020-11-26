@@ -1,4 +1,4 @@
-l=["Akash","Sharma","ankit","Nitin","Upender"]
+l=["Akash","Sharma","ankit","Nitin","Upender","Aman","Avinash"]
 s="a"
 s1="A"
 a=list(filter(lambda x: x if x[0]==s else x[0]==s1,l))
